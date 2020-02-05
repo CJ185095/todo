@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ToDo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cj185095
+Implementation-Vendor-Id: com.ncr
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ToDo
+Created-By: Maven Integration for Eclipse
+Main-Class: com.ncr.ToDo.ToDoApplication
+
